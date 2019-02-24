@@ -23,6 +23,8 @@ class singleLinkList(object):
         return count
 
     def travel(self):
+        if self.is_empty():
+            return
         # 首先要指向头节点
         cur = self._head
         while cur != None:
@@ -36,6 +38,7 @@ class singleLinkList(object):
         # 把链表的头节点指向新添加的节点
         self._head = p
 
+
     def last_add(self,elem):
         cur = self._head
         p = Node(elem)
@@ -44,7 +47,7 @@ class singleLinkList(object):
             self._head = p
         else:
             cur = self._head
-            while cur != None:
+            while cur._next != None:
                 cur = cur._next
             cur._next = p
     def insert(self,index,elem):
@@ -76,8 +79,10 @@ class singleLinkList(object):
                     pre._next = cur._next
                 break
             else:
+                # 将删除位置前一个节点的next指向删除位置的后一个节点
+                pre = cur
                 cur = cur._next
-                pre = pre._next
+
     def search(self,elem):
         cur = self._head
         index = 0
@@ -90,19 +95,27 @@ class singleLinkList(object):
         return index
 if __name__ == "__main__":
     ll = singleLinkList()
-
+    print("-------创建链表，首部加1，首部加2---------")
     ll.first_add(1)
     # print(ll.travel())
     ll.first_add(2)
-    print(ll.travel())
+    ll.travel()
+
+    print("-------尾部添加3---------")
     ll.last_add(3)
-    # print(ll.travel())
-    # ll.insert(2, 4)
-    # print("length:",ll.length())
-    # ll.travel()
-    # print ll.search(3)
-    # print ll.search(5)
-    # ll.remove(1)
+    ll.travel()
+
+    print("-------在索引为2的位置添加4---------")
+    ll.insert(2, 4)
+    print("length:",ll.length())
+    ll.travel()
+
+    print("-------查找链表中某一个数的索引---------")
+    index = ll.search(2)
+    print(index)
+
+    print("-------删除链表中某一个数---------")
+    ll.remove(3)
     # print "length:",ll.length()
-    # ll.travel()
+    ll.travel()
 
