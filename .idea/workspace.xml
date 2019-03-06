@@ -2,24 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b860827a-2363-4326-b601-2ee54bbd6aac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/InterfaceAut/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceAut/interface.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfaceAut/readConfig.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingleList/BiSingleList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingleList/circular_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/二维数组查找.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/offer/装饰器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/bubble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/栈/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/树/binaryTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/bsss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/seleniumAAA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/队列/double_ended_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/队列/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/args_kwargs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/code1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/offer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offer/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Continuous-learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Continuous-learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SingleList/singleList.py" beforeDir="false" afterPath="$PROJECT_DIR$/SingleList/singleList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/剑指offer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/offer/装饰器.py" beforeDir="false" afterPath="$PROJECT_DIR$/offer/argsss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/树/binaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/树/binaryTree.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,126 +21,26 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1603687179">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="4" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="ini" value="2" />
-          <entry key="md" value="1" />
-          <entry key="py" value="27" />
-          <entry key="txt" value="6" />
-          <entry key="xlxs" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="27" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="ini" value="133" />
-          <entry key="py" value="10905" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="134" />
-          <entry key="Python" value="10905" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterfaceAut/readConfig.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <marker date="1550744847992" expanded="true" signature="124:126" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/seleniumAAA.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="27" column="32" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="32" />
-              <folding>
-                <element signature="e#1#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/offer/二维数组查找.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
-              <folding>
-                <marker date="1551005748681" expanded="true" signature="306:311" ph="..." />
-                <marker date="1551005748681" expanded="true" signature="441:446" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/offer/装饰器.py">
+        <entry file="file://$PROJECT_DIR$/offer/offer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="23" lean-forward="true" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="259">
+              <caret line="383" column="25" lean-forward="true" selection-start-line="383" selection-start-column="25" selection-end-line="383" selection-end-column="25" />
               <folding>
-                <marker date="1551007213273" expanded="true" signature="20:152" ph="..." />
-                <marker date="1551007213273" expanded="true" signature="164:169" ph="..." />
-                <marker date="1551007213273" expanded="true" signature="231:236" ph="..." />
+                <marker date="1551526063180" expanded="true" signature="306:311" ph="..." />
+                <marker date="1551526063180" expanded="true" signature="441:446" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/locust/core.py">
+        <entry file="file://$PROJECT_DIR$/offer/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-67">
-              <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/data.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-95">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/bsss.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -173,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SingleList/singleList.py" />
         <option value="$PROJECT_DIR$/SingleList/circular_list.py" />
         <option value="$PROJECT_DIR$/sort/bubble.py" />
         <option value="$PROJECT_DIR$/sort/tests.py" />
@@ -181,20 +74,31 @@
         <option value="$PROJECT_DIR$/队列/queue.py" />
         <option value="$PROJECT_DIR$/队列/double_ended_queue.py" />
         <option value="$PROJECT_DIR$/SingleList/BiSingleList.py" />
-        <option value="$PROJECT_DIR$/树/binaryTree.py" />
         <option value="$PROJECT_DIR$/InterfaceAut/config.ini" />
         <option value="$PROJECT_DIR$/InterfaceAut/readConfig.py" />
         <option value="$PROJECT_DIR$/爬虫/soup.txt" />
         <option value="$PROJECT_DIR$/爬虫/bsss.py" />
-        <option value="$PROJECT_DIR$/爬虫/seleniumAAA.py" />
         <option value="$PROJECT_DIR$/offer/二维数组查找.py" />
         <option value="$PROJECT_DIR$/offer/装饰器.py" />
+        <option value="$PROJECT_DIR$/爬虫/seleniumAAA.py" />
+        <option value="$PROJECT_DIR$/爬虫/readme.md" />
+        <option value="$PROJECT_DIR$/offer/行参.py" />
+        <option value="$PROJECT_DIR$/offer/args_kwargs.py" />
+        <option value="$PROJECT_DIR$/SingleList/singleList.py" />
+        <option value="$PROJECT_DIR$/树/binaryTree.py" />
+        <option value="$PROJECT_DIR$/offer/code.py" />
+        <option value="$PROJECT_DIR$/offer/剑指offer.py" />
+        <option value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevconsole_code_for_ironpython.py" />
+        <option value="$PROJECT_DIR$/offer/__init___.py" />
+        <option value="$PROJECT_DIR$/offer/offer.py" />
+        <option value="$PROJECT_DIR$/offer/offer2.py" />
+        <option value="$PROJECT_DIR$/offer/aaa.py" />
+        <option value="$PROJECT_DIR$/offer/test.txt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="688" />
-    <option name="y" value="59" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -218,7 +122,17 @@
             <path>
               <item name="Continuous-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Continuous-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="栈" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Continuous-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Continuous-learning" type="462c0819:PsiDirectoryNode" />
               <item name="树" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Continuous-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Continuous-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -229,6 +143,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -248,8 +163,52 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.装饰器">
-    <configuration name="二维数组查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.offer">
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Continuous-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYDEVD_USE_CYTHON" value="NO" />
+        <env name="PYDEVD_USE_FRAME_EVAL" value="NO" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/offer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="binaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Continuous-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/树/binaryTree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="offer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Continuous-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,7 +220,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/二维数组查找.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/offer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="offer2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Continuous-learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,70 +241,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/装饰器.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bsss" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Continuous-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/bsss.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="readConfig" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Continuous-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceAut" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InterfaceAut/readConfig.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="seleniumAAA" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Continuous-learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/seleniumAAA.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/offer/offer2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,19 +251,17 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.二维数组查找" />
-      <item itemvalue="Python.readConfig" />
-      <item itemvalue="Python.seleniumAAA" />
-      <item itemvalue="Python.bsss" />
-      <item itemvalue="Python.装饰器" />
+      <item itemvalue="Python.binaryTree" />
+      <item itemvalue="Python.offer2" />
+      <item itemvalue="Python.aaa" />
+      <item itemvalue="Python.offer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.装饰器" />
-        <item itemvalue="Python.二维数组查找" />
-        <item itemvalue="Python.seleniumAAA" />
-        <item itemvalue="Python.bsss" />
-        <item itemvalue="Python.readConfig" />
+        <item itemvalue="Python.aaa" />
+        <item itemvalue="Python.offer2" />
+        <item itemvalue="Python.offer" />
+        <item itemvalue="Python.binaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -384,72 +278,117 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_args_kwargs_py - 2019.02.24 at 19h 52m 16s.xml">
+      <configuration name="pytest in args_kwargs.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_args_kwargs_py - 2019.02.24 at 19h 52m 43s.xml">
+      <configuration name="pytest in args_kwargs.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_args_kwargs_py - 2019.02.24 at 19h 53m 22s.xml">
+      <configuration name="pytest in args_kwargs.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_args_kwargs_py - 2019.02.24 at 19h 54m 20s.xml">
+      <configuration name="pytest in args_kwargs.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="688" y="59" width="1440" height="797" extended-state="0" />
-    <editor active="true" />
+    <frame x="1" y="23" width="1440" height="797" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14587738" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" sideWeight="0.50183153" side_tool="true" weight="0.14587738" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4981685" visible="true" weight="0.14375" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32909605" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40141845" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49444443" weight="0.30578512" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4923611" weight="0.30578512" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32765958" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32768363" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5076389" side_tool="true" weight="0.57575756" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32765958" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="mid" language="Python" />
-      </configuration>
-    </watches-manager>
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/offer/offer.py</url>
+          <line>368</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>mid</expression-string>
+        <expression-string>ll[0]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>data[&quot;environment&quot;]</expression-string>
+        <expression-string>charList[:i]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>array[i]</expression-string>
+        <expression-string>charList[:i])</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>self.is_empty()</expression-string>
+        <expression-string>''.join(charList[:i]) + ''.join(charList[i + 1:])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str1[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str2[j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s[j]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>myList[j+1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>myList[j]</expression-string>
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sort/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -464,36 +403,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SingleList/singleList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-          <folding>
-            <marker date="1549191160197" expanded="true" signature="20:21" ph="..." />
-            <marker date="1549191160197" expanded="true" signature="20:25" ph="..." />
-            <marker date="1549191160197" expanded="true" signature="197:843" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SingleList/circular_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1815">
           <caret line="121" selection-start-line="89" selection-start-column="4" selection-end-line="121" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/栈/stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="38" column="32" lean-forward="true" selection-start-line="20" selection-end-line="38" selection-end-column="32" />
-          <folding>
-            <marker date="1550406533564" expanded="true" signature="20:25" ph="..." />
-            <marker date="1550406533564" expanded="true" signature="92:101" ph="..." />
-            <marker date="1550406533564" expanded="true" signature="167:176" ph="..." />
-            <marker date="1550406533564" expanded="true" signature="235:244" ph="..." />
-            <marker date="1550406533564" expanded="true" signature="302:311" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -508,31 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="38" column="21" lean-forward="true" selection-end-line="50" />
-          <folding>
-            <marker date="1550408447729" expanded="true" signature="314:351" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SingleList/BiSingleList.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
-          <folding>
-            <marker date="1550484892378" expanded="true" signature="37:38" ph="..." />
-            <marker date="1550484892378" expanded="true" signature="37:42" ph="..." />
-            <marker date="1550484892378" expanded="true" signature="172:177" ph="..." />
-            <marker date="1550484892378" expanded="true" signature="503:703" ph="..." />
-            <marker date="1550484892378" expanded="true" signature="728:737" ph="..." />
-            <marker date="1550484892378" expanded="true" signature="978:987" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/树/binaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -557,20 +445,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/InterfaceAut/after.xlxs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InterfaceAut/readConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <marker date="1550744847992" expanded="true" signature="124:126" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/InterfaceAut/after.xlxs" />
     <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/bs4/dammit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -585,76 +460,201 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/soup.txt">
+    <entry file="file://$PROJECT_DIR$/爬虫/soup.txt" />
+    <entry file="file://$PROJECT_DIR$/爬虫/data3.txt" />
+    <entry file="file://$PROJECT_DIR$/爬虫/data.txt" />
+    <entry file="file://$PROJECT_DIR$/爬虫/data2.txt" />
+    <entry file="file://$PROJECT_DIR$/爬虫/name.txt" />
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/locust/core.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="307" column="23" selection-start-line="307" selection-start-column="11" selection-end-line="307" selection-end-column="23" />
+        <state relative-caret-position="-67">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/name.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/爬虫/readme.md" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/栈/stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/bsss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/data.txt">
+    <entry file="file://$PROJECT_DIR$/offer/args_kwargs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/data2.txt">
+    <entry file="file://$PROJECT_DIR$/InterfaceAut/readConfig.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-740" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/data3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440" />
+        <state relative-caret-position="371">
+          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/seleniumAAA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="27" column="32" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="32" />
-          <folding>
-            <element signature="e#1#12#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="374">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offer/二维数组查找.py">
+    <entry file="file://$PROJECT_DIR$/SingleList/BiSingleList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
-          <folding>
-            <marker date="1551005748681" expanded="true" signature="306:311" ph="..." />
-            <marker date="1551005748681" expanded="true" signature="441:446" ph="..." />
-          </folding>
+        <state relative-caret-position="817">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/site-packages/locust/core.py">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-849347325/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        <state relative-caret-position="173">
+          <caret line="128" column="4" selection-start-line="128" selection-start-column="4" selection-end-line="128" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/offer/装饰器.py">
+    <entry file="file://$PROJECT_DIR$/树/binaryTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="23" lean-forward="true" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="-301">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SingleList/singleList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="63" column="34" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevconsole.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer/__init___.py" />
+    <entry file="file://$PROJECT_DIR$/offer/argsss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding>
             <marker date="1551007213273" expanded="true" signature="20:152" ph="..." />
             <marker date="1551007213273" expanded="true" signature="164:169" ph="..." />
             <marker date="1551007213273" expanded="true" signature="231:236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_breakpoints.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevconsole_code_for_ironpython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_console_integration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" column="57" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="30" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_additional_thread_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_cython_wrapper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/python.app/Contents/lib/python3.6/pdb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1164">
+          <caret line="1588" column="24" lean-forward="true" selection-start-line="1588" selection-start-column="24" selection-end-line="1588" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer/code1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer/aaa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer/offer2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/offer/offer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="383" column="25" lean-forward="true" selection-start-line="383" selection-start-column="25" selection-end-line="383" selection-end-column="25" />
+          <folding>
+            <marker date="1551526063180" expanded="true" signature="306:311" ph="..." />
+            <marker date="1551526063180" expanded="true" signature="441:446" ph="..." />
           </folding>
         </state>
       </provider>

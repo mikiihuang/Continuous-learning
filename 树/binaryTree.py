@@ -1,34 +1,69 @@
-class Node(object):
-    """节点类"""
-    def __init__(self, elem=-1, lchild=None, rchild=None):
-        self.elem = elem
-        self.lchild = lchild
-        self.rchild = rchild
-class Tree(object):
-    """树类"""
-    def __init__(self, root=None):
+class BinaryTreeNode(object):
+    def __init__(self,data=None,left=None,right=None):
+        self.data = data
+        self.left = left
+        self.right = right
+
+class BinaryTree(object):
+    def __init__(self,root=None):
         self.root = root
 
-    def add(self, elem):
-        """为树添加节点"""
-        node = Node(elem)
-        #如果树是空的，则对根节点赋值
-        if self.root == None:
-            self.root = node
-        else:
-            queue = []
-            queue.append(self.root)
-            #对已有的节点进行层次遍历
-            while queue:
-                #弹出队列的第一个元素
-                cur = queue.pop(0)
-                if cur.lchild == None:
-                    cur.lchild = node
-                    return
-                elif cur.rchild == None:
-                    cur.rchild = node
-                    return
-                else:
-                    #如果左右子树都不为空，加入队列继续判断
-                    queue.append(cur.lchild)
-                    queue.append(cur.rchild)
+
+    def preOrder(self,root):
+        if root == None:
+            return
+        print(root.data)
+        self.preOrder(root.left)
+        self.preOrder(root.right)
+    def midOrder(self,root):
+        if root == None:
+            return
+
+        self.midOrder(root.left)
+        print(root.data)
+        self.midOrder(root.right)
+
+    def postOrder(self,root):
+        if root == None:
+            return
+        self.postOrder(root.left)
+        self.postOrder(root.right)
+        print(root.data)
+
+    def breadth_travel(self, root):
+        """利用队列实现树的层次遍历"""
+        if root == None:
+            return
+        queue = []
+        queue.append(root)
+        while queue:
+            node = queue.pop(0)
+            print(node.data)
+            if node.left != None:
+                queue.append(node.left)
+            if node.right!= None:
+                queue.append(node.right)
+
+
+n1 = BinaryTreeNode(data="D")
+n2 = BinaryTreeNode(data="E")
+n3 = BinaryTreeNode(data="F")
+n4 = BinaryTreeNode(data="B", left=n1, right=n2)
+n5 = BinaryTreeNode(data="C", left=n3, right=None)
+root = BinaryTreeNode(data="A", left=n4, right=n5)
+
+bt = BinaryTree(root=root)
+# print('先序遍历')
+# bt.preOrder(bt.root)
+# #
+# # bt = BinaryTree(root=root)
+# print('中序遍历')
+# bt.midOrder(bt.root)
+# #
+# # bt = BinaryTree(root=root)
+# print('后序遍历')
+# bt.postOrder(bt.root)
+#
+
+print('层次遍历')
+bt.breadth_travel(root)

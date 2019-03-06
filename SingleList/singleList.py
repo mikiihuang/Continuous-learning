@@ -71,7 +71,7 @@ class singleLinkList(object):
         cur = self._head
         pre = None
         while cur is not None:
-            if cur.item == elem:
+            if cur.
                 #  如果第一个就是要删除的节点
                 if not pre:
                     self._head = cur._next

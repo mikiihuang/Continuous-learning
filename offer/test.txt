@@ -1,0 +1,6 @@
+Beth	4.00	20
+Dan	3.75	0
+kathy	4.00	20
+Mark	5.00	20
+Mary	5.50	10
+Susie	4.25	0
